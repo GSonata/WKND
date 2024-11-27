@@ -1,6 +1,4 @@
-# Chapter 4 - Client Side Libraries Solution
-
-This is the solution code branch for [Chapter 4 - Client Side Libraries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/client-side-libraries.html)
+# PROYECTO WKND CREADO POR JOSE MANUEL PRADOS MORENTE
 
 ## Tutorial
 
